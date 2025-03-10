@@ -1,0 +1,25 @@
+
+
+
+.lorem h1{
+    font-size: 40px;
+    padding: 20px;
+    gap: 20px;
+}
+.lorem{
+    padding: 50px;
+    font-size: 30px;
+}
+h2{
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.blog{
+    display: flex;
+    background-size: contain;
+    padding: 70px 20px;
+    border-radius: 20px;
+    justify-content: center;
+}

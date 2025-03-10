@@ -1,0 +1,40 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+.style{
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 505;
+    gap: 40px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;;
+}
+.div{
+    justify-content: center;
+    align-items: center;
+}
+input{
+    padding: 10px 15px ;
+    margin: 5px;
+    color: black;
+    border-radius: 20px;
+}
+button{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 100px;
+    color: white;
+    font-weight: 400;
+    background-color: rgb(63, 146, 255);
+}
+
